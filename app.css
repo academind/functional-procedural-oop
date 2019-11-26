@@ -1,0 +1,42 @@
+html {
+  font-family: sans-serif;
+}
+
+form {
+  margin: 3rem;
+  padding: 1rem;
+  border: 1px solid #ccc;
+}
+
+.form-control {
+  margin: 1rem 0;
+}
+
+label, input {
+  display: block;
+}
+
+label {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+input {
+  font: inherit;
+  padding: 0.15rem 0.2rem;
+  border: 1px solid #ccc;
+}
+
+input:focus {
+  outline: none;
+  background: #e0e0e0;
+}
+
+button {
+  font: inherit;
+  cursor: pointer;
+  background: #000057;
+  color: white;
+  border: 1px solid #000057;
+  padding: 1rem 2rem;
+}
